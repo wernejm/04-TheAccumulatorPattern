@@ -80,6 +80,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #        one of the following two attempts is a CORRECT attempt
 #        (i.e., is equivalent in its functionality to the above)
 #        and one is WRONG.  Which is the WRONG one?
+#               The second one is incorrect -- it redefines x by diameter and by a factor of k (only one is needed)
 #
 #              x = starting_point.x
 #              for k in range(n):
